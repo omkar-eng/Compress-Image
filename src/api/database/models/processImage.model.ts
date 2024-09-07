@@ -24,7 +24,8 @@ const initModel = (sequelize: Sequelize) => {
       },
       status: {
         type: new DataTypes.STRING(128),
-        allowNull: true,
+        defaultValue: 'pending',
+        allowNull: false
       },
       requestId: {
         type: new DataTypes.STRING(128),
