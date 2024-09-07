@@ -1,3 +1,4 @@
+
                       PROCESS IMAGES LLD
 
 Diagram
@@ -67,3 +68,7 @@ Output: Processed image URL
 
 Postman collection link -> 
 https://api.postman.com/collections/16341910-ed7b819f-e2eb-40bc-9209-d50e382afa83?access_key=PMAT-01J76HNCSDHKGHMNYQAD7RGHE1
+
+Excel Format ->
+
+![Screenshot from 2024-09-07 21-53-57](https://github.com/user-attachments/assets/6669e59c-b4d4-4620-8126-78dc4e808cfb)
